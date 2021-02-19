@@ -33,8 +33,8 @@ spark = SparkSession.builder.appName('Stack Overflow ML').getOrCreate()
 print('Session created')
 
 sc = spark.sparkContext
-sc._jsc.hadoopConfiguration().set("fs.s3n.awsAccessKeyId", "AKIAIAXEHSU6S2X4LYHQ")
-sc._jsc.hadoopConfiguration().set("fs.s3n.awsSecretAccessKey", "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")
+sc._jsc.hadoopConfiguration().set("fs.s3n.awsAccessKeyId", )
+sc._jsc.hadoopConfiguration().set("fs.s3n.awsSecretAccessKey", )
 
 #Get the latest file from s3
 filename=get_latest_file_name()
