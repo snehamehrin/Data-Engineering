@@ -1,4 +1,4 @@
-# End To End Analytics Pipeline using AWS & eINSTEIN anALYTICS
+# End To End Analytics Pipeline using AWS & Einstein Analytics
  
 **Overview**
 
