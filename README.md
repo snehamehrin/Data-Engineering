@@ -40,4 +40,4 @@ My Goal was to map out the thought process involved in creation of a full fledge
 
 Full Blog Post can be read here :
 
-(https://medium.com/analytics-vidhya/building-an-end-to-end-analytics-pipeline-using-einstein-analytics-kinesis-spark-and-redshift-6d9fe1feb3c3)`
+(https://medium.com/analytics-vidhya/building-an-end-to-end-analytics-pipeline-using-einstein-analytics-kinesis-spark-and-redshift-6d9fe1feb3c3)
