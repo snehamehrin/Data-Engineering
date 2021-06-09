@@ -61,3 +61,4 @@ df_duplicates.write.format("com.databricks.spark.redshift")\
 .mode("append")\
 .save()
 
+++++
